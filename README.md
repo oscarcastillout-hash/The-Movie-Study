@@ -62,3 +62,18 @@ The most profitable companies on average tend to be those with a strong track re
 The ROI distribution shows the profitability of movies relative to their budgets. A significant number of movies have negative ROI, indicating they lost money. However, there are also movies with very high ROI, suggesting some films are highly profitable. The distribution is likely right-skewed, reflecting a few blockbuster successes amidst many less profitable films.
 
 <img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/c46531ec-76ca-4aa0-a346-b2c6bbe22d97" />
+
+The scatter plot shows a positive correlation between budget and revenue, indicating that movies with higher budgets tend to generate higher revenues. However, there is considerable variability, suggesting that a large budget does not guarantee high revenue. Some low-budget movies also achieve significant revenue, highlighting the influence of other factors such as genre, marketing, and audience reception.
+
+<img width="846" height="547" alt="image" src="https://github.com/user-attachments/assets/fd82ed7c-a710-4113-9a97-eda3f4a232e7" />
+
+The line plot indicates trends in movie releases over the years. There may be periods of increased movie production, possibly due to industry growth, technological advancements, or changes in audience demand. Peaks in movie releases could correspond to specific events in the film industry or broader economic conditions that encourage or discourage movie production.
+
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/88eb6009-e219-42cb-a82b-5e6bb39a7ce7" />
+
+
+
+
+
+
+
