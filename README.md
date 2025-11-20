@@ -42,5 +42,13 @@ The budget distribution shows that most movies have a budget below $50 million, 
 Both budget and revenue distributions are right-skewed, indicating that while most movies have moderate budgets and revenues, a few blockbuster films have extremely high values, significantly impacting the average.
 
 <img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/648f85b4-4bf6-4878-a5a5-743858e7432e" />
-<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/2fb802ef-e299-43ea-a248-bfee13d727fc" />
+
+The runtime distribution indicates that most movies have a runtime between 80 and 140 minutes, with a peak around 100-120 minutes. This suggests that filmmakers tend to favor this range for feature-length films.
+
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/b48a12a2-e3a9-4147-9fe2-76ea8101fc52" />
+
+The genre distribution shows that certain genres, such as Drama and Comedy, are more prevalent in the dataset. This could be due to their broad appeal and versatility in storytelling, making them popular choices for filmmakers. Other genres like Horror and Science Fiction are less common, possibly reflecting niche audiences or higher production costs associated with these genres.
+
+<img width="1002" height="547" alt="image" src="https://github.com/user-attachments/assets/9fc372e0-7dcf-40f8-ac0b-8da854cc856d" />
+
 
