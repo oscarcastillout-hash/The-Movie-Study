@@ -51,4 +51,14 @@ The genre distribution shows that certain genres, such as Drama and Comedy, are 
 
 <img width="1002" height="547" alt="image" src="https://github.com/user-attachments/assets/9fc372e0-7dcf-40f8-ac0b-8da854cc856d" />
 
+The popularity score distribution indicates how frequently movies are viewed or rated. A right-skewed distribution suggests that most movies have lower popularity scores, with a few movies achieving very high popularity. This pattern is common in entertainment, where a small number of blockbuster hits dominate audience attention.
 
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/811d1d1c-ef44-4c9c-807f-7944d27c76e8" />
+
+The most profitable companies on average tend to be those with a strong track record of successful films, effective budgeting, and popular franchises. These companies likely have better resources, talent, and market strategies that contribute to higher profitability.
+
+<img width="1606" height="1243" alt="image" src="https://github.com/user-attachments/assets/cb1e0487-3e3f-45e3-9104-9a1baeb4d3d9" />
+
+The ROI distribution shows the profitability of movies relative to their budgets. A significant number of movies have negative ROI, indicating they lost money. However, there are also movies with very high ROI, suggesting some films are highly profitable. The distribution is likely right-skewed, reflecting a few blockbuster successes amidst many less profitable films.
+
+<img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/c46531ec-76ca-4aa0-a346-b2c6bbe22d97" />
