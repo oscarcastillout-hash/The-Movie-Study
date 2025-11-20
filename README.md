@@ -55,9 +55,13 @@ The popularity score distribution indicates how frequently movies are viewed or 
 
 <img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/811d1d1c-ef44-4c9c-807f-7944d27c76e8" />
 
+Research Question 2: Which production companies produce the most profitable movies on average?
+
 The most profitable companies on average tend to be those with a strong track record of successful films, effective budgeting, and popular franchises. These companies likely have better resources, talent, and market strategies that contribute to higher profitability.
 
 <img width="1606" height="1243" alt="image" src="https://github.com/user-attachments/assets/cb1e0487-3e3f-45e3-9104-9a1baeb4d3d9" />
+
+Research Question 3: What is the distribution of ROI and how many movies are loss-making versus profitable?
 
 The ROI distribution shows the profitability of movies relative to their budgets. A significant number of movies have negative ROI, indicating they lost money. However, there are also movies with very high ROI, suggesting some films are highly profitable. The distribution is likely right-skewed, reflecting a few blockbuster successes amidst many less profitable films.
 
@@ -71,7 +75,18 @@ The line plot indicates trends in movie releases over the years. There may be pe
 
 <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/88eb6009-e219-42cb-a82b-5e6bb39a7ce7" />
 
+Conclusions
 
+This analysis used a 10,000‑movie TMDb dataset that includes user ratings, revenue, and inflation‑adjusted budget and revenue in 2010 dollars. The goal was to surface patterns in popularity, financial performance, and how features like genres, cast, and runtime relate to ratings and profitability.
+
+Key findings:
+
+Revenue and profit are highly skewed with a small number of blockbusters driving most aggregate revenue while many films lose money.
+Budget is a strong but imperfect predictor of revenue; higher budgets increase upside but do not guarantee profitability.
+Genre and cast matter: certain genres and recurring high‑profile cast members are associated with higher median revenue and vote counts.
+User engagement and ratings are only loosely correlated with box office; popularity and vote_count explain some variance in revenue but not all.
+
+Author: Luis Oscar Castillo Paniagua on Nov 19, 2025 (Udacity Project)
 
 
 
