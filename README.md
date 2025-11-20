@@ -38,3 +38,9 @@ Research Question 1: What factors best predict profit_adj (revenue_adj − budge
 The budget distribution shows that most movies have a budget below $50 million, with a long tail extending to higher budgets. This indicates that while a few movies have very high budgets, the majority are produced with more modest financial resources. The mean budget is higher than the median, suggesting that a few high-budget films are skewing the average upwards.
 
 <img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/255c3201-76f4-41dd-a746-27e3f3bc70a7" />
+
+Both budget and revenue distributions are right-skewed, indicating that while most movies have moderate budgets and revenues, a few blockbuster films have extremely high values, significantly impacting the average.
+
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/648f85b4-4bf6-4878-a5a5-743858e7432e" />
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/2fb802ef-e299-43ea-a248-bfee13d727fc" />
+
