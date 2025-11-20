@@ -5,11 +5,15 @@ Project: Investigate a Dataset - [tmdb_movies]
 
 Table of Contents
 
-Introduction
-Data Wrangling
-Exploratory Data Analysis
-Conclusions
-Introduction
+-Introduction
+
+-Data Wrangling
+
+-Exploratory Data Analysis
+
+-Conclusions
+
+-Introduction
 
 Dataset Description
 
@@ -24,11 +28,17 @@ What is the distribution of ROI and how many movies are loss-making versus profi
 Data Cleaning
 
 -Remove duplicates
+
 -Handle missing values
+
 -Convert data types as needed
+
 -Standardize text data
+
 -Remove outliers as needed
+
 -Rename columns for clarity
+
 -Print out a few lines of the claened dataframe
 
 Research Question 1: What factors best predict profit_adj (revenue_adj − budget_adj): budget_adj, genre, runtime, popularity, or cast size?
